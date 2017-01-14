@@ -1,6 +1,5 @@
 ***react-native-globals***
-Speeds development up for ***project specific*** component development as you don't have to worry/diagnose imported react native components.
-This assigns every cross platform react native component and api to the global scope. 
+Speeds development up for ***project specific*** components, it assigns react native apis and components to the global scope so you don't have to worry/diagnose several imports for every page/widget.
 ***Usage***
 
  ```
