@@ -3,5 +3,6 @@
  * https://github.com/facebook/react-native
  * @flow
  */
-import '../';
+import './globals';
+import Example from './Example';
 AppRegistry.registerComponent('example', () => Example);
