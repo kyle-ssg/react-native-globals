@@ -1,11 +1,11 @@
 ***react-native-globals***
 Speeds development up for ***project specific*** components, it assigns react native apis and components to the global scope so you don't have to worry/diagnose several imports for every page/widget.
-***Usage***
+
 
  ```
-import 'react-native-globals'
+import 'react-native-globals';
 const TheComponent = class extends React.Component {
-    displayName: 'TheComponent'
+    displayName: 'TheComponent';
 
     constructor (props, context) {
         super(props, context);
