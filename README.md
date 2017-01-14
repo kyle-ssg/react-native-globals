@@ -1,6 +1,6 @@
-*** react-native-globals ***
+***react-native-globals***
 Speeds development up for ***project specific*** component development as you don't have to worry/diagnose imported react native components.
-This assigns every cross platform react native component and api to the global scope
+This assigns every cross platform react native component and api to the global scope. 
 ***Usage***
 
  ```
@@ -25,3 +25,5 @@ const TheComponent = class extends React.Component {
 module.exports = TheComponent;
 
 ```
+
+*note: this is part of the 1% where I feel using global scope is fine and helps development.*
