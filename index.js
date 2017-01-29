@@ -33,6 +33,7 @@ global.StatusBar = ReactNative.StatusBar;
 global.StyleSheet = ReactNative.StyleSheet;
 global.Switch = ReactNative.Switch;
 global.Text = ReactNative.Text;
+global.TextInput = ReactNative.TextInput;
 global.TouchableHighlight = ReactNative.TouchableHighlight;
 global.TouchableOpacity = ReactNative.TouchableOpacity;
 global.TouchableHighlight = ReactNative.TouchableHighlight;
