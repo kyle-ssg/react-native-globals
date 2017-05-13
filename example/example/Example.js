@@ -13,7 +13,7 @@ const styles = StyleSheet.create({
 });
 
 module.exports = () => (
-    <View style={styles.container}>
-        <Text style={styles.welcome}>Hi</Text>
-    </View>
+<View style={styles.container}>
+<Text style={styles.welcome}>Hi</Text>
+</View>
 )

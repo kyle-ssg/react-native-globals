@@ -26,3 +26,5 @@ module.exports = TheComponent;
 ```
 
 *note: this is part of the 1% where I feel using global scope is fine and helps development.*
+
+**Since react-native v 0.44.0 this package will keep inline to react native versioning**
