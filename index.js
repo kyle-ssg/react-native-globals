@@ -1,7 +1,7 @@
 //Parent globals
 global.React = require('react');
 global.ReactNative = require('react-native');
-
+global.React.PropTypes = require("prop-types");
 //React native components
 global.ActivityIndicator = ReactNative.ActivityIndicator;
 global.Animated = ReactNative.Animated;
