@@ -6,7 +6,6 @@ global.React.PropTypes = require("prop-types");
 //React native components
 global.ActivityIndicator = ReactNative.ActivityIndicator;
 global.Button = ReactNative.Button;
-global.DataSource = ReactNative.ListView.DataSource;
 global.FlatList = ReactNative.FlatList;
 global.Image = ReactNative.Image;
 global.KeyboardAvoidingView  = ReactNative.KeyboardAvoidingView;
@@ -26,8 +25,6 @@ global.TouchableOpacity = ReactNative.TouchableOpacity;
 global.TouchableWithoutFeedback = ReactNative.TouchableWithoutFeedback;
 global.View = ReactNative.View;
 global.VirtualizedList = ReactNative.VirtualizedList;
-global.WebView = ReactNative.WebView;
-
 
 // APIS
 global.AccessibilityInfo = ReactNative.AccessibilityInfo;
