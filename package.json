@@ -14,7 +14,7 @@
   "author": "kyle-ssg",
   "license": "ISC",
   "peerDependencies": {
-    "react-native": ">=0.59.0"
+    "react-native": ">=0.60.0"
   },
   "repository": {
     "type": "git",
