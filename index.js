@@ -6,8 +6,6 @@ global.React.PropTypes = require("prop-types");
 //React native components
 global.ActivityIndicator = ReactNative.ActivityIndicator;
 global.Button = ReactNative.Button;
-global.DataSource = ReactNative.ListView.DataSource;
-global.FlatList = ReactNative.FlatList;
 global.Image = ReactNative.Image;
 global.KeyboardAvoidingView  = ReactNative.KeyboardAvoidingView;
 global.Modal = ReactNative.Modal;
@@ -26,8 +24,6 @@ global.TouchableOpacity = ReactNative.TouchableOpacity;
 global.TouchableWithoutFeedback = ReactNative.TouchableWithoutFeedback;
 global.View = ReactNative.View;
 global.VirtualizedList = ReactNative.VirtualizedList;
-global.WebView = ReactNative.WebView;
-
 
 // APIS
 global.AccessibilityInfo = ReactNative.AccessibilityInfo;
@@ -36,12 +32,10 @@ global.Animated = ReactNative.Animated;
 global.AppRegistry = ReactNative.AppRegistry;
 global.AppState = ReactNative.AppState;
 global.BackHandler = ReactNative.BackHandler;
-global.CameraRoll = ReactNative.CameraRoll;
 global.Clipboard = ReactNative.Clipboard;
 global.DeviceEventEmitter = ReactNative.DeviceEventEmitter;
 global.Dimensions = ReactNative.Dimensions;
 global.Easing = ReactNative.Easing;
-global.ImageEditor = ReactNative.ImageEditor;
 global.InteractionManager = ReactNative.InteractionManager;
 global.Keyboard = ReactNative.Keyboard;
 global.LayoutAnimation = ReactNative.LayoutAnimation;
