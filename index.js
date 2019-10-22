@@ -26,7 +26,6 @@ global.TouchableWithoutFeedback = ReactNative.TouchableWithoutFeedback;
 global.View = ReactNative.View;
 global.VirtualizedList = ReactNative.VirtualizedList;
 
-
 // APIS
 global.AccessibilityInfo = ReactNative.AccessibilityInfo;
 global.Alert = ReactNative.Alert;
@@ -34,12 +33,10 @@ global.Animated = ReactNative.Animated;
 global.AppRegistry = ReactNative.AppRegistry;
 global.AppState = ReactNative.AppState;
 global.BackHandler = ReactNative.BackHandler;
-global.CameraRoll = ReactNative.CameraRoll;
 global.Clipboard = ReactNative.Clipboard;
 global.DeviceEventEmitter = ReactNative.DeviceEventEmitter;
 global.Dimensions = ReactNative.Dimensions;
 global.Easing = ReactNative.Easing;
-global.ImageEditor = ReactNative.ImageEditor;
 global.InteractionManager = ReactNative.InteractionManager;
 global.Keyboard = ReactNative.Keyboard;
 global.LayoutAnimation = ReactNative.LayoutAnimation;
