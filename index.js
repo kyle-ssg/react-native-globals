@@ -6,6 +6,7 @@ global.React.PropTypes = require("prop-types");
 //React native components
 global.ActivityIndicator = ReactNative.ActivityIndicator;
 global.Button = ReactNative.Button;
+global.FlatList = ReactNative.FlatList;
 global.Image = ReactNative.Image;
 global.KeyboardAvoidingView  = ReactNative.KeyboardAvoidingView;
 global.Modal = ReactNative.Modal;
