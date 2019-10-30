@@ -1,6 +1,6 @@
 {
   "name": "react-native-globals",
-  "version": "0.60.2",
+  "version": "0.60.3",
   "description": "Assigns react native components and apis to global scope",
   "main": "index.js",
   "scripts": {
