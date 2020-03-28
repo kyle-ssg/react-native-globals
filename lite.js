@@ -9,6 +9,7 @@ global.Image = ReactNative.Image;
 global.ImageBackground = ReactNative.ImageBackground;
 global.KeyboardAvoidingView  = ReactNative.KeyboardAvoidingView;
 global.Modal = ReactNative.Modal;
+global.SafeAreaView = ReactNative.SafeAreaView;
 global.ScrollView = ReactNative.ScrollView;
 global.SectionList = ReactNative.SectionList;
 global.StyleSheet = ReactNative.StyleSheet;

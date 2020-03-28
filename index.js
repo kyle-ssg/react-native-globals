@@ -13,6 +13,7 @@ global.KeyboardAvoidingView  = ReactNative.KeyboardAvoidingView;
 global.Modal = ReactNative.Modal;
 global.Picker = ReactNative.Picker;
 global.RefreshControl = ReactNative.RefreshControl;
+global.SafeAreaView = ReactNative.SafeAreaView;
 global.ScrollView = ReactNative.ScrollView;
 global.SectionList = ReactNative.SectionList;
 global.StatusBar = ReactNative.StatusBar;
