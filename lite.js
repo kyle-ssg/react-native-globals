@@ -21,7 +21,6 @@ global.View = ReactNative.View;
 
 // APIS
 global.Alert = ReactNative.Alert;
-global.Clipboard = ReactNative.Clipboard;
 global.DeviceEventEmitter = ReactNative.DeviceEventEmitter;
 global.Linking = ReactNative.Linking;
 global.PixelRatio = ReactNative.PixelRatio;
